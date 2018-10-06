@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: lime;
+}
+
+body h1 {
+  text-decoration: underline;
+}
+
+h1 + p {
+  font-weight: bold;
+}
+
+#wrapper {
+  max-width: 800px;
+}
+
+.slanty {
+  font-style: italic;
+}
